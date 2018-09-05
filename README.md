@@ -1,5 +1,6 @@
 # pyrfid
 Python code to control Chinese USB HID 125Khz RFID Reader/Writer.
+![reader photo](./doc/img/rfidreader.jpg)
 # Introduction
 This code is the result of reverse-engineering the communication protocol of a Chinese USB 125Khz RFID Reader/Writer.
 # Description
